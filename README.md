@@ -1,4 +1,5 @@
 # 🎬 YouTube Shorts & TikTok Trends 2025  
+**Author:** [Tarek Masryo](https://github.com/tarekmasryo) · [Kaggle](https://www.kaggle.com/datasets/tarekmasryo/football-matches-20242025-top-5-leagues) 
 
 ---
 
