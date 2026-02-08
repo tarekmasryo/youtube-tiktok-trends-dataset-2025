@@ -1,0 +1,3 @@
+# Normalize line endings (helps keep CI + checksums stable across OS)
+* text=auto eol=lf
+*.csv text eol=lf

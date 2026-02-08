@@ -17,7 +17,7 @@ comments,Comments count
 shares,Shares count
 saves,Saves count
 engagement_rate,(likes+comments+shares+saves) / views
-trend_label,No description available
+trend_label,Trend snapshot label: rising / stable / declining / seasonal
 source_hint,No description available
 notes,No description available
 device_type,Android/iOS/Web

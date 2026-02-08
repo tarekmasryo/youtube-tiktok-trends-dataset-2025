@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it."
+type: dataset
+title: "YouTube Shorts & TikTok Trends 2025 (Synthetic)"
+authors:
+  - family-names: "Masryo"
+    given-names: "Tarek"
+license: "CC-BY-4.0"
+version: "1.0.2"
+date-released: "2026-02-08"
+url: "https://github.com/tarekmasryo/youtube-tiktok-trends-dataset-2025"

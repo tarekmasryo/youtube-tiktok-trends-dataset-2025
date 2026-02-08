@@ -1,10 +1,13 @@
 # Changelog
 
-- Initial release of **YouTube Shorts & TikTok Trends 2025** dataset.
-- Added raw trends file (~48K rows, 58 columns).
-- Added companion files:
-  - Monthly trends summary
-  - Country × platform summary
-  - Top creators impact
-  - Top hashtags
-  - Data dictionary
+## v1.0.2 — 2026-02-08
+
+- Normalize line endings for the ML-ready CSV to keep checksums stable across OS.
+
+## v1.0.1 — 2026-02-08
+
+- Maintenance release: citation metadata + integrity checks.
+
+## v1.0.0 — 2025-09-12
+
+- Initial public release.
