@@ -39,7 +39,7 @@ print(raw[["platform", "country", "views", "likes", "comments", "shares"]].head(
 
 ---
 
-## ✅ Data quality (reproducible)
+## ✅ Data quality 
 
 Install minimal deps:
 
